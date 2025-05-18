@@ -2,7 +2,8 @@
 
 ## Overview
 This repository contains code to predict  whether it will rain tomorrow in Australia based on today's weather data. 
-It uses a trained Random Forest model and a Streamlit app.
+It includes a trained Random Forest classifier and an interactive Streamlit web application.
+Access the live app here: https://rain-prediction-app-australia.streamlit.app/ 
 
 ## Project Structure
 ```
